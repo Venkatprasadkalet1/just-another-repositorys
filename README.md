@@ -1,1 +1,1 @@
-# just-another-repositorys
+# just-another-repository
